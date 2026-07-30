@@ -22,7 +22,7 @@ import org.web3j.tuples.generated.Tuple3;
 public class BlockchainVoteService {
 
     private final Web3j web3 = Web3j.build(new HttpService("https://sepolia.infura.io/v3/83da2e9359224d08ae3fa24549c036b8"));
-    private final String contractAddress = "0x722D907B2f8B3f6014E8a6734f87F379f76Fb0a4";
+    private final String contractAddress = ;
 
     /**
      * 서버 지갑을 통해 투표 생성
